@@ -12,4 +12,4 @@ Moderated the DevSecCon24 EU Panel 2020 titled [The Joys Of Integrating Security
 ### Awards
 DevSecOps - London Gathering presented with the ["Outstanding DevSecOps Community of 2019"](https://www.devseccon.com/blog/devsecops-leadership-awards-winners) by DevSecCon.
 ### Talks
-First public talk at the DevSecOps - London Gathering 1st Anniversary event in 2019. Thanks to my co-presenting Kaveh for supporting me. The title of our talk is [Implementing SAST IRL](https://youtu.be/SQJ9HsjC9qM).
+First public talk at the DevSecOps - London Gathering 1st Anniversary event in 2019. Thanks to my co-presenter Kaveh for supporting me. The title of our talk is [Implementing SAST IRL](https://youtu.be/SQJ9HsjC9qM).
