@@ -13,7 +13,7 @@ pin: true
 
 I have pinned this post as I will update this as and when I attend/discover and like/dislike events.
 ### Which one next?
-* I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2022-london/welcome/) this September.
+I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2022-london/welcome/) this September.
 
 ---
 ### === Conferences ===
