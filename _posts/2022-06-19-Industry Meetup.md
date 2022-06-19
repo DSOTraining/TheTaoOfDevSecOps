@@ -50,7 +50,7 @@ pin: true
 
 [SEACON:Global](https://www.seacom.online/)
 
-### Meetups
+### === Meetups ===
 [DevSecOps - London Gathering](https://dsolg.com/)
 * A mix of virtual and in-person event taking place in London, UK.
 * The largest and award winning independent DevSecOps community in the world which I founded.
@@ -61,7 +61,7 @@ pin: true
 
 [Cloud Native London](https://www.meetup.com/cloud-native-london/)
 
-### Podcasts
+### === Podcasts ===
 * DSO Overflow
 * Darknet Diaries
 * Malicious Life
@@ -70,7 +70,7 @@ pin: true
 * Profound
 * C9K - [YouTube](https://www.youtube.com/channel/UCuj1ByVjn4uagdu4vE82LgA)
 
-### Books
+### === Books ===
 * The Phoenix Project
 * The Unicorn Project
 * DevSecOps
