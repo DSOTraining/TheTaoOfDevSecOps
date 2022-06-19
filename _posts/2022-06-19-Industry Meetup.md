@@ -14,11 +14,11 @@ pin: true
 
 ### Conferences
 [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
-Agenda has dedicated secruity stream.
-
+* Agenda has dedicated secruity stream.
 
 [DevOps Enterprise Summit](https://events.itrevolution.com/)
-Takes place twice a year, one in EU and the other NA.  Past talks can be found [here](https://videos.itrevolution.com/).
+* Takes place twice a year, one in EU and the other NA.
+* Past talks can be found [here](https://videos.itrevolution.com/).
 
 
 ### Meetups
