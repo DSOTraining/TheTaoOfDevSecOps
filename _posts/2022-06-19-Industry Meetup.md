@@ -12,7 +12,7 @@ pin: true
      />
 
 
-### Conferences
+### === Conferences ===
 [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
 * Regional events
 * Agenda has dedicated secruity stream.
@@ -70,7 +70,12 @@ pin: true
 * Profound
 * C9K - [YouTube](https://www.youtube.com/channel/UCuj1ByVjn4uagdu4vE82LgA)
 
-
-
-
 ### Books
+* The Phoenix Project
+* The Unicorn Project
+* DevSecOps
+* The DevOps Handbook (2nd Edition)
+* Project to Product
+* Accelerate
+* The Lean Startup
+* Team Topologies
