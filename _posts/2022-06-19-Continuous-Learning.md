@@ -1,5 +1,5 @@
 ---
-title: Events Calendar 2022
+title: Continuous Learning 2022
 date: 2022-06-19 12:00
 categories: [conferences,meetup,events,community]
 tags: [conferences,meetup,community,events]
