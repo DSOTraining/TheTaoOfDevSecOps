@@ -1,8 +1,8 @@
 ---
 title: Continuous Learning 2022
 date: 2022-06-19 12:00
-categories: [conferences,meetup,events,community]
-tags: [conferences,meetup,community,events]
+categories: [conferences,meetup,events,community,book,podcast]
+tags: [conferences,meetup,community,events,book,podcast]
 pin: true
 ---
 > This post is pinned as I will be updating this on the fly as and when I attend/discover or like/dislike events.
@@ -13,10 +13,11 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 
 ---
 ![Title](/assets/conferences1.svg)
+
+
 | Conference                      | Description          |
 |:-----------------------------|:-----------------|
 | [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)          | Regional events with dedicated security stream.     |
-| Alfreds Futterkiste          | Maria Anders     |
 | [AWS reinforce](https://reinforce.awsevents.com/)               | Conference focused on security, compliance, identity, and privacy.    |
 | [DevOps Enterprise Summit](https://events.itrevolution.com/) | Takes place twice a year, one in EU and the other NA.  Past talks can be found [here](https://videos.itrevolution.com/). |
 | [DevOps Days](https://devopsdays.org/) | Multi regional events. |
@@ -31,8 +32,10 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 ---
 
 ![Title](/assets/meetup.svg)
+
+
 | Community Meetups                  | Description      |
-|:-----------------------------|-----------------:|
+|:-----------------------------|:-----------------|
 | [DevSecOps - London Gathering](https://dsolg.com/) | DSO-LG is a mix of virtual and in-person event taking place in London, UK.  The largest and award winning independent DevSecOps community in the world which I founded. |
 | [Cloud Native London](https://www.meetup.com/cloud-native-london/) | This is one of the largest Cloud Native meetup and my first one I attended in this space. |
 | [London DevOps](https://www.meetup.com/london-devops/) | One of the largest DevOps community event. |
@@ -42,8 +45,10 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 ---
 
 ![Title](/assets/podcasts.svg)
+
+
 | Podcasts                   | Description      |
-|:-----------------------------|-----------------:|
+|:-----------------------------|:-----------------|
 | DSO Overflow | Complimentary podcast to the monthly DSO-LG meetup. |
 | C9K | My weekly all in one [YouTube](https://www.youtube.com/channel/UCuj1ByVjn4uagdu4vE82LgA) news reel.|
 | Darknet Diaries | Very professionally done and great stories of real life security events. |
@@ -55,12 +60,16 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 ---
 
 ![Title](/assets/books.svg)
-|                    |       |       |       |
-|:-----------------------------|:-----------------|:-----------------|-----------------:|
-| The Phoenix Project | The Unicorn Project | DevSecOps | The DevOps Handbook (2nd Edition) |
-| Project to Product | Accelerate | The Lean Startup | Team Topologies |
-| The Phoenix Project | The Unicorn Project | DevSecOps | The DevOps Handbook (2nd Edition) |
-|                    |       |       |       |
+
+
+|     Bucket     |    of      |     Books     |
+|:----------:|:----------:|:----------:|
+| The Phoenix Project | The Unicorn Project | DevSecOps |
+| The DevOps Handbook (2nd Edition) | Project to Product | Accelerate |
+| The Lean Startup | Team Topologies | Cyber Defense Matrix |
+| Continuous Delivery Pipeline  | The Art of Software Security Assessment | Monolith to Microservices |
+|  Cult of the Dead Cow     |   Agile Application Security  |   The Five Dysfunctions of a Team    |
+|  Hacking Kubernetes     | Secure By Design  | Securing DevOps |
 
 
 
