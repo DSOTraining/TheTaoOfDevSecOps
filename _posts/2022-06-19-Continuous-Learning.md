@@ -5,7 +5,7 @@ categories: [conferences,meetup,events,community]
 tags: [conferences,meetup,community,events]
 pin: true
 ---
-> I have pinned this post as I will be updating this on the fly as and when I attend/discover or like/dislike events..
+> I have pinned this post as I will be updating this on the fly as and when I attend/discover or like/dislike events.
 {: .prompt-info }
 
 #### So which one next?
@@ -14,14 +14,22 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 ---
 
 ![Title](/assets/conferences1.svg)
+| Conference                      | Description          |
+|:-----------------------------|:-----------------|--------:|
+| [=> AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)          | * Regional events
+* Agenda has dedicated secruity stream     |
+| [=> AWS reinforce](https://reinforce.awsevents.com/)               | * Regional events
+* Agenda has dedicated secruity stream    |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli |
+
 
 [=> AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
 * Regional events
-* Agenda has dedicated secruity stream.
+* Agenda has dedicated secruity stream
 
 [=> AWS reinforce](https://reinforce.awsevents.com/)
 * Regional events
-* Agenda has dedicated secruity stream.
+* Agenda has dedicated secruity stream
 
 [=> DevOps Enterprise Summit](https://events.itrevolution.com/)
 * Takes place twice a year, one in EU and the other NA.
