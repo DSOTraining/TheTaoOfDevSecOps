@@ -13,19 +13,10 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 
 ---
 
-| Conference                      | Description          | Country |
-|:-----------------------------|:-----------------|--------:|
-| [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)          | Regional events with dedicated security stream.     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Conference                      | Description          |
+|:-----------------------------|:-----------------|
+| [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)          | Regional events with dedicated security stream.     |
+| Alfreds Futterkiste          | Maria Anders     |
 
 
 ![Title](/assets/conferences1.svg)
