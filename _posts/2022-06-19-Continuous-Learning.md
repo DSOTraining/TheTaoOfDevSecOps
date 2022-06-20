@@ -13,9 +13,14 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 
 ---
 
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+
+
 ![Title](/assets/conferences1.svg)
 | Conference                   | Description      |
-|:-----------------------------|-----------------:|
+|:-----------------------------|:-----------------|
 | [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)          | Regional events with dedicated security stream.
 | [AWS reinforce](https://reinforce.awsevents.com/)               | Conference focused on security, compliance, identity, and privacy.    |
 | [DevOps Enterprise Summit](https://events.itrevolution.com/) | Takes place twice a year, one in EU and the other NA.  Past talks can be found [here](https://videos.itrevolution.com/). |
