@@ -5,13 +5,7 @@ categories: [conferences,meetup,events,community]
 tags: [conferences,meetup,community,events]
 pin: true
 ---
-⚠️⚠️⚠️
-
-**I have pinned this post as I will be updating this on the fly as and when I attend/discover or like/dislike events.**
-
-⚠️⚠️⚠️
-
-> `info` I have pinned this post as I will be updating this on the fly as and when I attend/discover or like/dislike events..
+> I have pinned this post as I will be updating this on the fly as and when I attend/discover or like/dislike events..
 {: .prompt-info }
 
 #### So which one next?
