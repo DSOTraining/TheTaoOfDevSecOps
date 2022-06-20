@@ -28,6 +28,11 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 | [fwd:cloudsec](https://fwdcloudsec.org/) | --- |
 | [WeAreDevelopers](https://www.wearedevelopers.com/world-congress/) | --- |
 | [SEACON:Global](https://www.seacom.online/) | --- |
+| [BlackHat](https://www.blackhat.com/) | Events in Las Vegas and London. |
+| [DefCon](https://defcon.org/) | Takes place in Sin City - Las Vegas. |
+| [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) | Plenty of local events. The [London](https://www.securitybsides.org.uk/#) one. |
+| [44Con](https://44con.com/) | One of the largest UK security conference. |
+
 
 ---
 
