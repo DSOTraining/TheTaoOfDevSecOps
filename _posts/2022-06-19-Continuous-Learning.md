@@ -16,7 +16,7 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 
 ---
 
-![Title](/assets/conferences.svg)
+![Title](/assets/conferences1.svg)
 
 [=> AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
 * Regional events
