@@ -13,7 +13,7 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 
 ---
 
-| Company                      | Contact          | Country |
+| Conference                      | Description          | Country |
 |:-----------------------------|:-----------------|--------:|
 | [AWS Summit](https://aws.amazon.com/events/summits/?awsf.events-location=*all&awsf.events-series=*all)          | Regional events with dedicated security stream.     | Germany |
 | Alfreds Futterkiste          | Maria Anders     | Germany |
