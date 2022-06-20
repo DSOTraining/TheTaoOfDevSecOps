@@ -11,6 +11,9 @@ pin: true
 
 ⚠️⚠️⚠️
 
+> An example showing the `info` type prompt.
+{: .prompt-info }
+
 #### So which one next?
 I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2022-london/welcome/) this coming September.
 
