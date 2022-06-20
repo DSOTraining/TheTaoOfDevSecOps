@@ -11,7 +11,7 @@ pin: true
 
 ⚠️⚠️⚠️
 
-> An example showing the `info` type prompt.
+> `info` I have pinned this post as I will be updating this on the fly as and when I attend/discover or like/dislike events..
 {: .prompt-info }
 
 #### So which one next?
