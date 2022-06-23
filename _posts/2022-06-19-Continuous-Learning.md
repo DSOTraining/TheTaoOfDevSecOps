@@ -32,7 +32,7 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 | [DefCon](https://defcon.org/) | Takes place in Sin City - Las Vegas. |
 | [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) | Plenty of local events. The [London](https://www.securitybsides.org.uk/#) one. |
 | [44Con](https://44con.com/) | One of the largest UK security conference. |
-
+| [ADDO](https://www.alldaydevops.com/) | All Day DevOps (ADDO) - 24 online virtual goodness. |
 
 ---
 
