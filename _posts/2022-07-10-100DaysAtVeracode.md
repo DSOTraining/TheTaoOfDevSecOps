@@ -60,15 +60,13 @@ So if I can summarise my first "100 days at Veracode", then I feel comfortable .
 
 > **"We are proud to be Veracode"**
 
-<br/>
-<br/>
+
 <img src="/assets/01.jpeg"
     alt="Picture" 
     width="300" 
     height="300" 
     style="display: block; margin: 0 auto" />
-<br/>
-<br/>
+
 
 # The Veracode Way
 You will have noticed a few quotes and these represents "The Veracode Way", they are the guiding principles that we follow.  
