@@ -4,8 +4,6 @@ date: 2022-07-10 12:00
 categories: [work,life,career,evangelist,advocate,consultant]
 tags: [work,life,career,evangelist,advocate,consultant]
 ---
-# 100 Days At Veracode
-
 I have been an independent consultant for the best part of two decades and I have had the pleasure to work at some great businesses - check out my [LinkedIn](https://www.linkedin.com/in/mman/) to see who.  About ten years ago I crashed into the DevOps movement and with my security background I like to claim I sparked off the DevSecOps movement (exaggeration).  In reality, what I did was, I had a mid life ~~crisis~~ inspiration and started a community meetup called DevSecOps - London Gathering (back in September 2017).  I was inspired by a conference called DevSecCon; thank you [Francois](https://www.linkedin.com/in/francoisraynaud/) for starting this great conference and indirectly kicking me to do something and allowing me to break out of my comfort zone.  I have now moved on from the [meet-up](https://dsolg.com/), but please continue to attend and provide feedback - I know the new organisers will love this.
 
 So bringing this back to the present time.  I am now, no longer an independent consultant and have recently joined a company called [Veracode](https://www.veracode.com/) as a permie - I know, who would of guessed.
