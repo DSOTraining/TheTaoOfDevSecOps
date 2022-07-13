@@ -65,7 +65,7 @@ So if I can summarise my first "100 days at Veracode", then I feel comfortable .
     alt="Picture" 
     width="300" 
     height="300" 
-    style="display: block; margin: 0 auto" />
+    />
 
 
 # The Veracode Way
