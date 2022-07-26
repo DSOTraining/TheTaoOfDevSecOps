@@ -12,7 +12,7 @@ Moderated the DevSecCon24 EU Panel 2020 titled [The Joys Of Integrating Security
 ### Awards  
 DevSecOps - London Gathering presented with the ["Outstanding DevSecOps Community of 2019"](https://www.devseccon.com/blog/devsecops-leadership-awards-winners) by DevSecCon.
 ### Talks  
-Presented at the South African ISC2 Chapter to share some of my personal experience and insight with ["Overcoming the DevSecops Imposter Syndrome"](https://www.eventbrite.com/e/isc2-chapter-event-overcoming-the-devsecops-imposter-syndrome-tickets-383613788167).  Presentation slides can be found [here](https://github.com/DSOTraining/dsotraining.github.io/tree/main/assets/talks/OvercomingTheDevSecOpsImposterSyndrome_July2022.pdf).
+* Presented at the South African ISC2 Chapter to share some of my personal experience and insight with ["Overcoming the DevSecops Imposter Syndrome"](https://www.eventbrite.com/e/isc2-chapter-event-overcoming-the-devsecops-imposter-syndrome-tickets-383613788167).  Presentation slides can be found [here](https://github.com/DSOTraining/dsotraining.github.io/tree/main/assets/talks/OvercomingTheDevSecOpsImposterSyndrome_July2022.pdf).
 
 
-First public talk at the DevSecOps - London Gathering 1st Anniversary event in 2019. Thanks to my co-presenter Kaveh for supporting me. The title of our talk is [Implementing SAST IRL](https://youtu.be/SQJ9HsjC9qM).
+* First public talk at the DevSecOps - London Gathering 1st Anniversary event in 2019. Thanks to my co-presenter Kaveh for supporting me. The title of our talk is [Implementing SAST IRL](https://youtu.be/SQJ9HsjC9qM).
