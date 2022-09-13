@@ -16,3 +16,6 @@ DevSecOps - London Gathering presented with the ["Outstanding DevSecOps Communit
 
 
 * First public talk at the DevSecOps - London Gathering 1st Anniversary event in 2019. Thanks to my co-presenter Kaveh for supporting me. The title of our talk is [Implementing SAST IRL](https://youtu.be/SQJ9HsjC9qM).
+
+## Having Fun in the Community
+![DSO-LG Playback](/assets/DSOLGSept2022.gif)

@@ -77,8 +77,11 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 |  Hacking Kubernetes     | Securing DevOps  | Monolith to Microservices |
 
 
-
-
+## Free References
+The following 3 titles have been made available by Google:
+1. [Building Secure & Reliable Systems](https://sre.google/books/)
+1. [The Site Reliability Workbook](https://sre.google/books/)
+1. [Site Reliability Engineering](https://sre.google/books/)
 
 
 
