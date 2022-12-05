@@ -9,7 +9,9 @@ pin: true
 {: .prompt-info }
 
 #### So which one next?
-I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2022-london/welcome/) this coming September.
+I will be **attending** [Black Hat Europe 2022](https://www.blackhat.com/eu-22/briefings/schedule/) and [BSides London](https://www.securitybsides.org.uk/).
+
+Added two new conferences below: [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) and [YOW! London 2022](https://yowlondon.com/2022).
 
 ---
 ![Title](/assets/conferences1.svg)
@@ -33,7 +35,8 @@ I will be **attending** the [DevOps Days London](https://devopsdays.org/events/2
 | [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) | Plenty of local events. The [London](https://www.securitybsides.org.uk/#) one. |
 | [44Con](https://44con.com/) | One of the largest UK security conference. |
 | [ADDO](https://www.alldaydevops.com/) | All Day DevOps (ADDO) - 24 online virtual goodness. |
-
+| [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) | 2 Days of k8s in person event. |
+| [YOW! London 2022](https://yowlondon.com/2022) | A wonder new (for me) 2 day conference covering best practices in the software industry. |
 ---
 
 ![Title](/assets/meetup.svg)
