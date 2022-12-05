@@ -37,6 +37,7 @@ Added two new conferences below: [Kubernetes Community Days UK 2022](https://com
 | [ADDO](https://www.alldaydevops.com/) | All Day DevOps (ADDO) - 24 online virtual goodness. |
 | [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) | 2 Days of k8s in person event. |
 | [YOW! London 2022](https://yowlondon.com/2022) | A wonder new (for me) 2 day conference covering best practices in the software industry. |
+
 ---
 
 ![Title](/assets/meetup.svg)
