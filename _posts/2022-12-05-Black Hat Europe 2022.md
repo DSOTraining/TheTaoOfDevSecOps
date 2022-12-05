@@ -12,7 +12,7 @@ To kick start December, we have the annual Black Hat Europe held at the Excel Lo
 
 I love the hallway tracks at any event, but I also love to target the broad range of talks to expand and widen my exposure to this complex security domain. Here are a few I would like to share:
 
-#
+***
  
 ### Keynote - Our Kryptonite: A Defendable Internet
 
@@ -30,7 +30,7 @@ Shifting left is all the rage over the last few years, but security operations a
 ### Scammers Who Scam Scammers, Hackers Who Hack Hackers: Exploring a Hidden Sub-economy on Cybercrime Forums and Marketplaces
 Understanding or gaining insight into the dark world of adversary is always fascinating.  This presentation seems to share another layer of complexity.  Should be a fun talk.
 
-#
+***
 There are quite a few more talks on my hit list, but people love top 5 and top 10 lists 🤓. If you will be attending do look out for me even just to say hi.
 
 ![ My wrap up of KubeCon EU 2022](/assets/BHEU2022.jpeg)
