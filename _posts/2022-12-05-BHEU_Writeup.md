@@ -1,5 +1,5 @@
 ---
-title: Why Software Security Has Never Been More Important - my Review of Black Hat Europe 2022
+title: Black Hat Europe 2022":" Why Software Security Has Never Been More Important 
 date: 2022-12-13 12:00
 categories: [conference,blackhat,BHEU,community]
 tags: [conference,blackhat,BHEU,community]
@@ -13,11 +13,9 @@ Once again this year’s Black Hat Europe took place at Excel London, in the UK.
 
 ![BHEU 2022 Tube](/assets/ExcelTube.png)
 
-<img src="/assets/ExcelTube.png" alt=“BHEU_2022_Tube” width="300" height="200">
-
 Black Hat was held at the far end of the conference centre so it was a bit of a walk from the station. The Registration area was sandwiched between the Business Hall (vendor stands situated on the lower ground floor) and the briefings (main talks) on the third floor. The sponsor (vendor-centric) talks and Arsenal (demonstration area of open source tools) were co-located in the Business Hall. This layout was very convenient.
 
-Here are some of my colleagues looking after the Veracode stand at the event.
+Here are some of my colleagues looking after the [Veracode](https://www.veracode.com) stand at the event.
 ![BHEU 2022 V Stand](/assets/VC_Stand.jpg)
 
 ***
@@ -34,6 +32,7 @@ For those who are interested in standards relating to the car industry, there ar
 
 It’s been a while since I worked with a Security Operations Centre (SOC) and so the session titled “Confidence in Chaos: Strategies for World-Class Security Operations” by [Kathryn Knerle](https://www.linkedin.com/in/kathryn-knerler-b8b5b22/) and [Carson Zimmerman](https://www.linkedin.com/in/carson-zimmerman/) allowed me to play catch up with the world of Operational Security and how the SOC has evolved since I was last involved in this domain. The talk covered some of the changes and key areas contained in the freely published reference [11 Strategies of a World Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf).
 It is always wonderful for experts in their own field to collate and share their domain knowledge with the wider industry through the creation of an in-depth publication - sharing is caring.
+
 ***
 ## Key Highlights From the Event 
 Both keynotes were the highlights for me as they reflected on the journey the security industry has taken and what we can do going forward.
@@ -54,6 +53,7 @@ Interesting fact, in 2022 there were 16 ransomware incidents which invoked COBRA
 Jen stated that one of her key objectives for her talks was to inspire and provoke action to help shape the future of security in collaboration with your government (not exclusive to the UK). She has definitely piqued my interest to understand further what is happening in this space.
 
 Here are a couple of areas which I will dig into more [AppSec and Privacy Code of Practice](https://www.gov.uk/government/consultations/app-security-and-privacy-interventions/app-security-and-privacy-interventions) and [Product Security and Telecommunications Infrastructure Bill](https://www.gov.uk/government/publications/product-security-and-telecommunications-infrastructure-bill-documents). Also to keep track of the forthcoming “Software Security” cyber policy.
+
 ***
 ## Final Thoughts 
 Having attended different conferences over the last three weeks I noticed that the last day always seems to be very lightly attended. It is December 2022, so I guess we are still adapting to the new world we live in with people’s working practices and attending in-person events. 2023 will be another stage for us all. I hope I have the opportunity to continue to meet you wonderful folks in the new year and for us to share our experiences.
