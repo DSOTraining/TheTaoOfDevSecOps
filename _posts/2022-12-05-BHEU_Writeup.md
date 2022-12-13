@@ -1,5 +1,5 @@
 ---
-title: Black Hat Europe 2022":" Why Software Security Has Never Been More Important 
+title: Black Hat Europe 2022':' Why Software Security Has Never Been More Important 
 date: 2022-12-13 12:00
 categories: [conference,blackhat,BHEU,community]
 tags: [conference,blackhat,BHEU,community]
@@ -16,7 +16,12 @@ Once again this year’s Black Hat Europe took place at Excel London, in the UK.
 Black Hat was held at the far end of the conference centre so it was a bit of a walk from the station. The Registration area was sandwiched between the Business Hall (vendor stands situated on the lower ground floor) and the briefings (main talks) on the third floor. The sponsor (vendor-centric) talks and Arsenal (demonstration area of open source tools) were co-located in the Business Hall. This layout was very convenient.
 
 Here are some of my colleagues looking after the [Veracode](https://www.veracode.com) stand at the event.
-![BHEU 2022 V Stand](/assets/VC_Stand.jpg)
+
+<img src="/assets/VC_Stand.jpg" 
+    alt="Veracode Stand" 
+    width="300" 
+    height="400" 
+     />
 
 ***
 ## Choosing What Sessions To Attend Was Tricky
