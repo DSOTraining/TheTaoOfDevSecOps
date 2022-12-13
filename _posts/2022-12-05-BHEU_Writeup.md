@@ -32,7 +32,7 @@ The lineup on the first day attracted me more. One session was “Back-connect t
 ![BHEU 2022 VW](/assets/VW_SW_Update.jpeg)
 
 For those who are interested in standards relating to the car industry, there are two regulations from the United Nations Economic Commission for Europe (UNECE) for you to reference and digest:
-- [UN Regulation No. 155 - Cyber security and cyber security management syste](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
+- [UN Regulation No. 155 - Cyber security and cyber security management system](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
 - [UN Regulation No. 156 - Software update and software update management system](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-156-software-update-and-software-update)
 
 It’s been a while since I worked with a Security Operations Centre (SOC) and so the session titled “Confidence in Chaos: Strategies for World-Class Security Operations” by [Kathryn Knerle](https://www.linkedin.com/in/kathryn-knerler-b8b5b22/) and [Carson Zimmerman](https://www.linkedin.com/in/carson-zimmerman/) allowed me to play catch up with the world of Operational Security and how the SOC has evolved since I was last involved in this domain. The talk covered some of the changes and key areas contained in the freely published reference [11 Strategies of a World Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf).
