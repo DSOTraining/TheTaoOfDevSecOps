@@ -57,7 +57,7 @@ Interesting fact, in 2022 there were 16 ransomware incidents which invoked COBRA
 
 Jen stated that one of her key objectives for her talks was to inspire and provoke action to help shape the future of security in collaboration with your government (not exclusive to the UK). She has definitely piqued my interest to understand further what is happening in this space.
 
-Here are a couple of areas which I will dig into more [AppSec and Privacy Code of Practice](https://www.gov.uk/government/consultations/app-security-and-privacy-interventions/app-security-and-privacy-interventions) and [Product Security and Telecommunications Infrastructure Bill](https://www.gov.uk/government/publications/product-security-and-telecommunications-infrastructure-bill-documents). Also to keep track of the forthcoming “Software Security” cyber policy.
+Here are a couple of areas which I will dig into more [AppSec and Privacy Code of Practice](https://www.gov.uk/government/consultations/app-security-and-privacy-interventions/app-security-and-privacy-interventions) and [Product Security and Telecommunications Infrastructure Bill](https://www.gov.uk/government/publications/product-security-and-telecommunications-infrastructure-bill-documents).
 
 ***
 ## Final Thoughts 
