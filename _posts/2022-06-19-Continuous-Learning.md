@@ -9,9 +9,7 @@ pin: true
 {: .prompt-info }
 
 #### So which one next?
-I will be **attending** [Black Hat Europe 2022](https://www.blackhat.com/eu-22/briefings/schedule/) and [BSides London](https://www.securitybsides.org.uk/).
-
-Added two new conferences below: [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) and [YOW! London 2022](https://yowlondon.com/2022).
+Let's wait until the new year to see what's in store.
 
 ---
 ![Title](/assets/conferences1.svg)

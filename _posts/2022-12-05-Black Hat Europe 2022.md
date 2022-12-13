@@ -1,5 +1,5 @@
 ---
-title: Black Hat Europe 2022 – The Top 5 Application Security Sessions to Attend
+title: Black Hat Europe 2022:The Top 5 Application Security Sessions to Attend
 date: 2022-12-05 12:00
 categories: [conference,blackhat,BHEU,community]
 tags: [conference,blackhat,BHEU,community]

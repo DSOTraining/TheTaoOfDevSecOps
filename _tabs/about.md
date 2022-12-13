@@ -7,7 +7,10 @@ order: 4
 Michael brings more than 20 years of IT security experience. He has advised large enterprises on secure software development, working across all stages of delivery, while engaging with the different stakeholders to deliver successful business outcomes. His favourite certification is his OSCP due to his keen understanding of ethical hacking practices. Michael is also the founder of one of the largest DevSecOps community meetups "DevSecOps - London Gathering" and has co-organised the conference "DevSecOps Days London".
 
 ## Public Recordings & Recognition  
-### Panels  
+### Panels & Webinars
+
+Hosted a session with industry colleagues titled [Manage Software Supply Chain Risk and Avoid Vulnerabilities](https://www.brighttalk.com/webcast/12807/503709)
+
 Moderated the DevSecCon24 EU Panel 2020 titled [The Joys Of Integrating Security Testing Into Your Pipeline ](https://youtu.be/rSGFpAU4RwU).
 ### Awards  
 DevSecOps - London Gathering presented with the ["Outstanding DevSecOps Community of 2019"](https://www.devseccon.com/blog/devsecops-leadership-awards-winners) by DevSecCon.
