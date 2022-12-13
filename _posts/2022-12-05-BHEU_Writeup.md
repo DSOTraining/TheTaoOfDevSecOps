@@ -1,5 +1,5 @@
 ---
-title: Black Hat Europe 2022':' Why Software Security Has Never Been More Important 
+title: Black Hat Europe 2022:Why Software Security Has Never Been More Important 
 date: 2022-12-13 12:00
 categories: [conference,blackhat,BHEU,community]
 tags: [conference,blackhat,BHEU,community]
@@ -19,8 +19,8 @@ Here are some of my colleagues looking after the [Veracode](https://www.veracode
 
 <img src="/assets/VC_Stand.jpg" 
     alt="Veracode Stand" 
-    width="300" 
-    height="400" 
+    width="600" 
+    height="800" 
      />
 
 ***
