@@ -11,6 +11,14 @@ pin: true
 #### So which one next?
 Let's wait until the new year to see what's in store.
 
+<img src="/assets/2022ConBadges.jpg" 
+    alt="Badges" 
+    width="600" 
+    height="800" 
+     />
+
+***
+
 ---
 ![Title](/assets/conferences1.svg)
 
